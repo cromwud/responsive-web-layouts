@@ -195,7 +195,7 @@ header nav ul li.active::after{
     /* Секция с изображением */
 
     .features{
-        background: url("img/zadnik.svg") no-repeat center center fixed;
+        background: url("../img/zadnik.svg") no-repeat center center fixed;
    background-size: cover;
    padding: 80px 0;
     }
